@@ -74,6 +74,18 @@ These results emphasize the importance of balancing techniques when working with
 ```
 
 ---
+## Skills Used
+ *Python
+ *Pandas, NumPy
+ *Scikit-learn
+ *Imbalanced-Learn (SMOTE)
+ *Data Cleaning & Preprocessing
+ *Feature Engineering
+ *Hyperparameter Tuning (GridSearchCV)
+ *Classification Models (KNN, Naive Bayes, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting)
+ *Model Evaluation (Recall, Specificity, F1-score, ROC-AUC)
+ *Matplotlib, Seaborn
+ *Jupyter Notebook
 
 ## Future Improvements
 
